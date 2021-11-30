@@ -1,0 +1,21 @@
+﻿{
+  "name": "storm4th",
+  "title": "Stormbringer 4th edition",
+  "description": "Stormbringer 4th edition fanmade",
+  "version": "1.0.0",
+  "templateVersion": 2,
+  "author": "Smi0rgan",
+     "minimumCoreVersion": "0.8.9",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "packs": [],
+  "languages": [],
+  "socket": false,
+  "initiative": "@characteristics.dexterity",
+  "gridDistance": 1.5,
+  "gridUnits": "m",
+  "url": "https://www.stormbringer.com/",
+  "manifest": "https://github.com/Smi0rgan/storm4th/system.json",
+  "download": ""
+}
