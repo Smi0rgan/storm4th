@@ -16,6 +16,6 @@
   "gridDistance": 1.5,
   "gridUnits": "m",
   "url": "https://www.stormbringer.com/",
-  "manifest": "https://github.com/Smi0rgan/storm4th/system.json",
+  "manifest": "https://github.com/Smi0rgan/storm4th/blob/master/system.json",
   "download": ""
 }
